@@ -1,0 +1,54 @@
+{
+  "HamburgerMenu": {
+    "1": "Anasayfa",
+    "2": "Kurumsal",
+    "3": "Ürünler",
+    "4": "İletişim"
+  },
+  "HomeFooter": {
+    "1": "Firmamız en iyi performansı ve kaliteyle terlik ve sandalet sektöründeki ürünleri sizlere sunmayı ilke edinmiştir.Kendi yüksek standartlarımızı aşmak için çalışıyoruz.Ticari ahlakı,ürün kalitesi zamanında teslim ve pazarlama ağıyla kısa sürede sektörde adından bahsettirerek pazar payını her gün daha iyi bir seviyeye çeken firmamız değerli müşterilerimiz sayesinde bugün ki konumuna ulaşmıştır."
+  },
+  "HomeFooterh1": {
+    "1": "FABRİKA"
+  },
+  "HomeFooterh12": {
+    "1": "İLETİŞİM"
+  },
+  "HomeUrunler": {
+    "1": "Ürünlerimiz"
+  },
+  "HomeUrunlerp": {
+    "1": "Ürün Modellerimizden Bazıları."
+  },
+  "KurumsalLineh2": {
+    "1": "Kurumsal"
+  },
+  "KurumsalLinelink": {
+    "1": "Anasayfa"
+  },
+  "KurumsalHakkımızda": {
+    "1": "Hakkımızda",
+    "2": "Tanıtım"
+  },
+  "KurumsalHakkımızdap": {
+    "1": "Firmamız terlik ve sandalet sektöründe ürünleri en iyi performans ve kalite ile sizlere sunmayı ilke edinmiştir. Kendi yüksek standartlarımızı aşmaya çalışıyoruz. Ticari ahlakı, ürün kalitesi, zamanında teslimat ve pazarlama ağı ile kısa sürede sektörde adından söz ettiren firmamız, 2014 yılından itibaren siz değerli müşterilerimiz sayesinde bugünkü konumuna ulaşmıştır."
+  },
+  "KurumsalHakkımızdahedef": {
+    "1": "Hedefler"
+  },
+  "KurumsalHakkımızdahedefp": {
+    "1": "Şu andan itibaren 14 ülkeye 290 konteyner ihraç eden firmamız, hedeflerimiz doğrultusunda 21,5 milyon çift sandalet ve terlik üretmeyi, üretimini ikiye katlamayı hedefliyor.Şu anda 300'den fazla kişiye istihdam sağlayan Osnsoft, 2 yıl içinde üretim gücünü artırmayı ve 30000 m2'ye sahip son teknoloji fabrikamızda 490 personel istihdam ederek kalitemizi ve hizmetimizi 14 ülkeden 37 ülkeye ulaştırmayı ve sağlam bir altyapı hazırlayarak daha fazla kişiye ulaşmayı planlıyoruz."
+  },
+  "Urunler": {
+    "1": "Ürünler"
+  },
+  "Contact": {
+    "1": "Adres",
+    "2": "Telefon",
+    "3": "Email"
+  },
+  "Production": {
+    "1": "Üretim",
+    "2": "Sahip olduğumuz tecrübe ile sizlere daha iyi ve kaliteli hizmet verebilmek için büyük bir istek ve kararlılıkla çalışmaya devam etmekteyiz. Bir makine ile başlayan serüvenimiz, bugün 7 makine ve 300'ün üzerinde çalışan ile hizmet vermektedir. Kurulduğumuz ilk günden beri her zaman olduğu gibi KALİTE'den taviz vermeden sizlere hizmet vermekten gurur duyuyoruz."
+  }
+}
